@@ -1,0 +1,2 @@
+(library
+ (name baudot_translator))

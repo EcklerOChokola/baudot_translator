@@ -1,0 +1,5 @@
+(executable
+ (public_name baudot_translator)
+ (name main)
+ (modules Main Alphabets)
+ (libraries baudot_translator))
